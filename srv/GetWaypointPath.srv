@@ -1,0 +1,8 @@
+# Request
+nav_msgs/Path sparse_path
+float64 waypoint_distance
+
+---
+
+# Response
+nav_msgs/Path dense_path
